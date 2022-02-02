@@ -1,0 +1,529 @@
+
+        {
+            "@context":"http://iiif.io/api/presentation/2/context.json",
+            "@id":"http://data.momu.be/melijn/list.json",
+            "@type":"sc:AnnotationList",
+            "resources":[
+
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+
+                    "chars":"first J wish arrght blewish peirle culde op 2o f 12"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=838,2795,1900,82"
+
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+
+                    "chars":"14 a 15 pt & 8a 2 of t1 a 12 s, butt them vorcornon"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=864,2879,1898,90"
+
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+
+                    "chars":"& tosel thepatt"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=878,2975,582,91"
+
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+
+                    "chars":"2"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=488,3029,60,64"
+
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+
+                    "chars":"more uyn the blew & lighter"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1556,3053,1004,102"
+
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+
+                    "chars":"to N1"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=934,3078,246,67"
+
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+
+                    "chars":"11018 offe"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=936,3126,556,96"
+
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+
+                    "chars":"3"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=480,3157,60,71"
+
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+
+                    "chars":"ƒ60 a 2"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=940,3224,248,64"
+
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+
+                    "chars":"160:12 of5 gelose miet or nom thongh net sored"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=936,3216,1780,146"
+
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+
+                    "chars":"p"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=484,3285,44,64"
+
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+
+                    "chars":"1bo„3"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=948,3354,256,64"
+
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+
+                    "chars":"1t0„ 9 ƒ5 dor there abont upon the red"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=928,3350,1524,148"
+
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+
+                    "chars":"s"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=480,3393,40,64"
+
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+
+                    "chars":"1t0: 14 ofn. peon theblen"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=938,3458,1148,104"
+
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+
+                    "chars":"6"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=462,3511,48,68"
+
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+
+                    "chars":"& maij not te gealloover"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1540,3535,804,108"
+
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+
+                    "chars":"168: 15 of"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=948,3576,362,62"
+
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+
+                    "chars":"1ƒ5. 15"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=948,3659,290,50"
+
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+
+                    "chars":"1to 16 of 6 a6 &8"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=964,3701,712,70"
+
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+
+                    "chars":"a 7:6 das muck gepon the blewae porsibile"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1476,3720,1374,109"
+
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+
+                    "chars":"160...6"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=970,3784,258,66"
+
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+
+                    "chars":"1e1 af5 N"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=964,3842,596,73"
+
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+
+                    "chars":"tobe all cloe niet laeley lighting evillooris not sayp"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=686,3883,2146,142"
+
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+
+                    "chars":"of thread bare"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=810,4029,584,88"
+
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+
+                    "chars":"12 6 Janiars"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=924,4199,584,72"
+
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/manifest.json",
+        						"@type": "sc:Manifest"
+        					}
+
+                    }
+            ]
+        }
