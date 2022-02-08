@@ -10,6 +10,6 @@ Voorbeeldmanifest in Universal Viewer [Testvolume](https://universalviewer.io/uv
 
 | Inventory number        | Description           | manifest URI  |
 | ------------- |:-------------:| -----:|
-| T94/183 (MoMu)      | Brievenkopijenboek |[manifest](https://museumstichting.resourcespace.com/iiif/11516/manifest)<br>[universalviewer](https://universalviewer.io/uv.html?https://museumstichting.resourcespace.com/iiif/11516/manifest)|
-| T94/186 (MoMu)      | Brievenkopijenboek      |[manifest](https://museumstichting.resourcespace.com/iiif/11518/manifest)<br>[universalviewer](https://universalviewer.io/uv.html?https://museumstichting.resourcespace.com/iiif/11518/manifest)|
-| T94/187 | Brievenkopijenboek      |[manifest](https://museumstichting.resourcespace.com/iiif/11519/manifest)<br>[universalviewer](https://universalviewer.io/uv.html?https://museumstichting.resourcespace.com/iiif/11519/manifest)|
+| T94/183 (MoMu)      | Brievenkopijenboek |[manifest](https://museumstichting.resourcespace.com/iiif/11516/manifest)<br>[universalviewer](https://universalviewer.io/uv.html?manifest=https://museumstichting.resourcespace.com/iiif/11516/manifest)|
+| T94/186 (MoMu)      | Brievenkopijenboek      |[manifest](https://museumstichting.resourcespace.com/iiif/11518/manifest)<br>[universalviewer](https://universalviewer.io/uv.html?manifest=https://museumstichting.resourcespace.com/iiif/11518/manifest)|
+| T94/187 | Brievenkopijenboek      |[manifest](https://museumstichting.resourcespace.com/iiif/11519/manifest)<br>[universalviewer](https://universalviewer.io/uv.html?manifest=https://museumstichting.resourcespace.com/iiif/11519/manifest)|
