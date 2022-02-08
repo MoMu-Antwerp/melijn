@@ -4,7 +4,8 @@ De 17e en 18e-eeuwse handelscorrespondentie van de Antwerpse textielhandelaarsfa
 
 Binnen de context van de inhaalbeweging digitale collectieregistratie van de Vlaamse overheid schreef MoMu een project uit om het Archief Melijn digitaal te ontsluiten en te publiceren. Essentieel is dat het project hierbij gebruik tracht te maken van louter open source-initiatieven, om zo duplicatie voor gelijkaardige ontsluitingsprojecten te faciliteren.
 
-Voorbeeldmanifest in Universal Viewer <div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://museumstichting.resourcespace.com/iiif/11515/manifest" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="0" data-xywh="-3841,-257,11005,5135" data-rotation="0" style="width:560px; height:420px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
+Voorbeeldmanifest in Universal Viewer
+<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://museumstichting.resourcespace.com/iiif/11515/manifest" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="0" data-xywh="-3841,-257,11005,5135" data-rotation="0" style="width:560px; height:420px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
 
 # Volumes
 
