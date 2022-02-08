@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-02-04T12:21:40.618+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="4740" WIDTH="8036">
+         <TopMargin HEIGHT="0" WIDTH="8036" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="4740" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="4740" WIDTH="0" VPOS="0" HPOS="8036"/>
+         <BottomMargin HEIGHT="0" WIDTH="8036" VPOS="4740" HPOS="0"/>
+         <PrintSpace HEIGHT="4740" WIDTH="8036" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="158" WIDTH="38" VPOS="574" HPOS="674">
+               <Shape>
+                  <Polygon POINTS="674,574 674,732 712,732 712,574"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="674,682 712,674"
+                         HEIGHT="158"
+                         WIDTH="38"
+                         VPOS="574"
+                         HPOS="674">
+                  <String ID="string_r1l1"
+                          HEIGHT="158"
+                          WIDTH="38"
+                          VPOS="574"
+                          HPOS="674"
+                          CONTENT=""/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r2" HEIGHT="374" WIDTH="254" VPOS="2842" HPOS="4176">
+               <Shape>
+                  <Polygon POINTS="4176,2842 4176,3216 4430,3216 4430,2842"/>
+               </Shape>
+               <TextLine ID="r2l1"
+                         BASELINE="4220,2888 4248,2888 4276,2883 4304,2884"
+                         HEIGHT="66"
+                         WIDTH="84"
+                         VPOS="2842"
+                         HPOS="4220">
+                  <String ID="string_r2l1"
+                          HEIGHT="66"
+                          WIDTH="84"
+                          VPOS="2842"
+                          HPOS="4220"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r2l2"
+                         BASELINE="4184,2996 4210,2995 4236,2993 4262,2990 4288,2985 4314,2980 4340,2977 4366,2974 4392,2972"
+                         HEIGHT="78"
+                         WIDTH="208"
+                         VPOS="2936"
+                         HPOS="4184">
+                  <String ID="string_r2l2"
+                          HEIGHT="78"
+                          WIDTH="208"
+                          VPOS="2936"
+                          HPOS="4184"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r2l3"
+                         BASELINE="4314,3054 4343,3052 4372,3050 4401,3049 4430,3046"
+                         HEIGHT="62"
+                         WIDTH="116"
+                         VPOS="3010"
+                         HPOS="4314">
+                  <String ID="string_r2l3"
+                          HEIGHT="62"
+                          WIDTH="116"
+                          VPOS="3010"
+                          HPOS="4314"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r2l4"
+                         BASELINE="4244,3108 4273,3108 4303,3108 4332,3107 4362,3106 4392,3104"
+                         HEIGHT="65"
+                         WIDTH="148"
+                         VPOS="3063"
+                         HPOS="4244">
+                  <String ID="string_r2l4"
+                          HEIGHT="65"
+                          WIDTH="148"
+                          VPOS="3063"
+                          HPOS="4244"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r2l5"
+                         BASELINE="4176,3194 4203,3196 4230,3196 4257,3196 4284,3196 4312,3196"
+                         HEIGHT="63"
+                         WIDTH="136"
+                         VPOS="3153"
+                         HPOS="4176">
+                  <String ID="string_r2l5"
+                          HEIGHT="63"
+                          WIDTH="136"
+                          VPOS="3153"
+                          HPOS="4176"
+                          CONTENT=""/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

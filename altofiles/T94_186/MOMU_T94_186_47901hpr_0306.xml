@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-02-04T12:21:01.746+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="4555" WIDTH="7789">
+         <TopMargin HEIGHT="0" WIDTH="7789" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="4555" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="4555" WIDTH="0" VPOS="0" HPOS="7789"/>
+         <BottomMargin HEIGHT="0" WIDTH="7789" VPOS="4555" HPOS="0"/>
+         <PrintSpace HEIGHT="4555" WIDTH="7789" VPOS="0" HPOS="0">
+            <TextBlock ID="region_1638976632863_12823"
+                       HEIGHT="516"
+                       WIDTH="1387"
+                       VPOS="504"
+                       HPOS="785">
+               <Shape>
+                  <Polygon POINTS="785,504 2172,504 2172,1020 785,1020"/>
+               </Shape>
+               <TextLine ID="region_1638976632863_12823l1"
+                         BASELINE="1736,736 1762,733 1788,731 1814,729 1841,726 1867,723 1893,720 1919,715 1946,711 1972,707 1998,702 2024,698 2051,693 2077,689 2103,684 2129,679 2156,676"
+                         HEIGHT="120"
+                         WIDTH="420"
+                         VPOS="636"
+                         HPOS="1736">
+                  <String ID="string_region_1638976632863_12823l1"
+                          HEIGHT="120"
+                          WIDTH="420"
+                          VPOS="636"
+                          HPOS="1736"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="region_1638976632863_12823l2"
+                         BASELINE="1770,814 1796,816 1822,816 1848,815 1874,813 1900,808 1927,805 1953,801 1979,798 2005,796 2031,794 2058,794"
+                         HEIGHT="82"
+                         WIDTH="288"
+                         VPOS="754"
+                         HPOS="1770">
+                  <String ID="string_region_1638976632863_12823l2"
+                          HEIGHT="82"
+                          WIDTH="288"
+                          VPOS="754"
+                          HPOS="1770"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="region_1638976632863_12823l3"
+                         BASELINE="1002,894 1028,882 1055,870 1082,864 1108,859 1135,847 1162,828"
+                         HEIGHT="135"
+                         WIDTH="160"
+                         VPOS="782"
+                         HPOS="1002">
+                  <String ID="string_region_1638976632863_12823l3"
+                          HEIGHT="135"
+                          WIDTH="160"
+                          VPOS="782"
+                          HPOS="1002"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="region_1638976632863_12823l4"
+                         BASELINE="1116,964 1145,961 1174,957 1203,952 1232,945 1261,937 1290,930 1319,919 1348,908 1377,898 1407,887 1436,876 1465,866 1494,856 1523,844 1552,835 1581,827 1610,819 1639,813 1668,807 1698,804"
+                         HEIGHT="229"
+                         WIDTH="582"
+                         VPOS="758"
+                         HPOS="1116">
+                  <String ID="string_region_1638976632863_12823l4"
+                          HEIGHT="229"
+                          WIDTH="582"
+                          VPOS="758"
+                          HPOS="1116"
+                          CONTENT=""/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="region_1638976634800_12826"
+                       HEIGHT="498"
+                       WIDTH="575"
+                       VPOS="1328"
+                       HPOS="838">
+               <Shape>
+                  <Polygon POINTS="838,1328 1413,1328 1413,1826 838,1826"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="region_1638976636319_12829"
+                       HEIGHT="800"
+                       WIDTH="801"
+                       VPOS="1963"
+                       HPOS="974">
+               <Shape>
+                  <Polygon POINTS="974,1963 1775,1963 1775,2763 974,2763"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="region_1638976637968_12832"
+                       HEIGHT="844"
+                       WIDTH="964"
+                       VPOS="3088"
+                       HPOS="1031">
+               <Shape>
+                  <Polygon POINTS="1031,3088 1995,3088 1995,3932 1031,3932"/>
+               </Shape>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

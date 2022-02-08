@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-02-04T12:21:31.355+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="4623" WIDTH="8180">
+         <TopMargin HEIGHT="0" WIDTH="8180" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="4623" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="4623" WIDTH="0" VPOS="0" HPOS="8180"/>
+         <BottomMargin HEIGHT="0" WIDTH="8180" VPOS="4623" HPOS="0"/>
+         <PrintSpace HEIGHT="4623" WIDTH="8180" VPOS="0" HPOS="0">
+            <TextBlock ID="region_1641892049215_2133"
+                       HEIGHT="1188"
+                       WIDTH="2500"
+                       VPOS="194"
+                       HPOS="859">
+               <Shape>
+                  <Polygon POINTS="859,194 3359,363 3319,1382 866,1278"/>
+               </Shape>
+               <TextLine ID="region_1641892049215_2133l1"
+                         BASELINE="1264,252 1295,254 1327,256 1358,257 1390,258 1421,258 1453,259 1484,260 1516,260 1547,260 1579,260 1610,260 1642,260 1673,260 1705,260 1736,260 1768,260 1799,262 1831,262 1862,263 1894,264"
+                         HEIGHT="115"
+                         WIDTH="659"
+                         VPOS="169"
+                         HPOS="1250">
+                  <String ID="string_region_1641892049215_2133l1"
+                          HEIGHT="115"
+                          WIDTH="659"
+                          VPOS="169"
+                          HPOS="1250"
+                          CONTENT=" dat deselch"/>
+               </TextLine>
+               <TextLine ID="region_1641892049215_2133l2"
+                         BASELINE="1096,400 1206,394 1316,390 1426,388 1536,386 1646,384 1756,382 1866,382 1976,384 2086,386 2197,388 2307,392 2417,395 2527,402 2637,407 2747,415 2857,422 2967,431 3077,441 3187,453 3298,464"
+                         HEIGHT="220"
+                         WIDTH="2234"
+                         VPOS="267"
+                         HPOS="1081">
+                  <String ID="string_region_1641892049215_2133l2"
+                          HEIGHT="220"
+                          WIDTH="2234"
+                          VPOS="267"
+                          HPOS="1081"
+                          CONTENT="woodt naeder gedeclareert soo de voors schepen tot etrchangel"/>
+               </TextLine>
+               <TextLine ID="region_1641892049215_2133l3"
+                         BASELINE="1096,506 1207,499 1319,492 1431,488 1543,484 1655,482 1766,480 1878,480 1990,482 2102,484 2214,486 2325,490 2437,495 2549,501 2661,507 2773,514 2884,521 2996,531 3108,539 3220,549 3332,558"
+                         HEIGHT="162"
+                         WIDTH="2268"
+                         VPOS="409"
+                         HPOS="1081">
+                  <String ID="string_region_1641892049215_2133l3"
+                          HEIGHT="162"
+                          WIDTH="2268"
+                          VPOS="409"
+                          HPOS="1081"
+                          CONTENT="hebben overwintert, en de ossureerden den risico heeft aen weerde"/>
+               </TextLine>
+               <TextLine ID="region_1641892049215_2133l4"
+                         BASELINE="1072,614 1185,606 1298,600 1412,593 1525,588 1639,583 1752,580 1865,579 1979,578 2092,578 2206,580 2319,583 2432,587 2546,591 2659,598 2773,605 2886,612 2999,622 3113,632 3226,644 3340,656"
+                         HEIGHT="223"
+                         WIDTH="2298"
+                         VPOS="497"
+                         HPOS="1057">
+                  <String ID="string_region_1641892049215_2133l4"
+                          HEIGHT="223"
+                          WIDTH="2298"
+                          VPOS="497"
+                          HPOS="1057"
+                          CONTENT="en Auguste vanden voorleden den reassuradon sich in syne plaetge"/>
+               </TextLine>
+               <TextLine ID="region_1641892049215_2133l5"
+                         BASELINE="1056,712 1126,710 1196,707 1267,703 1337,700 1408,698 1478,694 1548,690 1619,688 1689,685 1760,682 1830,680 1900,678 1971,678 2041,678 2112,678 2182,680 2252,682 2323,685 2393,689 2464,696"
+                         HEIGHT="212"
+                         WIDTH="1439"
+                         VPOS="581"
+                         HPOS="1040">
+                  <String ID="string_region_1641892049215_2133l5"
+                          HEIGHT="212"
+                          WIDTH="1439"
+                          VPOS="581"
+                          HPOS="1040"
+                          CONTENT="stelt, op schalde geschiede geschieden"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

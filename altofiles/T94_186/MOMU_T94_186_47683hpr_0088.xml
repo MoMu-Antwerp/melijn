@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-02-04T12:20:48.713+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="4500" WIDTH="7762">
+         <TopMargin HEIGHT="0" WIDTH="7762" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="4500" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="4500" WIDTH="0" VPOS="0" HPOS="7762"/>
+         <BottomMargin HEIGHT="0" WIDTH="7762" VPOS="4500" HPOS="0"/>
+         <PrintSpace HEIGHT="4500" WIDTH="7762" VPOS="0" HPOS="0">
+            <TextBlock ID="region_1599574026250_3522"
+                       HEIGHT="681"
+                       WIDTH="1586"
+                       VPOS="280"
+                       HPOS="878">
+               <Shape>
+                  <Polygon POINTS="878,280 2464,280 2464,961 878,961"/>
+               </Shape>
+               <TextLine ID="region_1599574026250_3522l1"
+                         BASELINE="1334,430 1387,428 1441,424 1494,422 1548,420 1601,417 1655,415 1708,412 1762,410 1815,408 1869,405 1922,404 1976,402 2029,400 2083,398 2136,396 2190,396 2243,394 2297,392 2350,392 2404,390"
+                         HEIGHT="210"
+                         WIDTH="1107"
+                         VPOS="270"
+                         HPOS="1315">
+                  <String ID="string_region_1599574026250_3522l1"
+                          HEIGHT="210"
+                          WIDTH="1107"
+                          VPOS="270"
+                          HPOS="1315"
+                          CONTENT="I have ordvred 2 paces of"/>
+               </TextLine>
+               <TextLine ID="region_1599574026250_3522l2"
+                         BASELINE="1192,570 1245,562 1299,554 1353,547 1407,540 1461,535 1514,531 1568,526 1622,524 1676,522 1730,519 1783,518 1837,516 1891,514 1945,514 1999,512 2052,510 2106,510 2160,508 2214,506 2268,504"
+                         HEIGHT="202"
+                         WIDTH="1116"
+                         VPOS="402"
+                         HPOS="1169">
+                  <String ID="string_region_1599574026250_3522l2"
+                          HEIGHT="202"
+                          WIDTH="1116"
+                          VPOS="402"
+                          HPOS="1169"
+                          CONTENT="Monthri us lett in each be "/>
+               </TextLine>
+               <TextLine ID="region_1599574026250_3522l3"
+                         BASELINE="1240,672 1294,665 1348,659 1402,654 1456,648 1511,644 1565,640 1619,636 1673,634 1727,630 1782,628 1836,626 1890,624 1944,623 1998,622 2053,621 2107,620 2161,618 2215,618 2269,617 2324,616"
+                         HEIGHT="231"
+                         WIDTH="1120"
+                         VPOS="502"
+                         HPOS="1220">
+                  <String ID="string_region_1599574026250_3522l3"
+                          HEIGHT="231"
+                          WIDTH="1120"
+                          VPOS="502"
+                          HPOS="1220"
+                          CONTENT="ersher of 2 of theh 4 pa"/>
+               </TextLine>
+               <TextLine ID="region_1599574026250_3522l4"
+                         BASELINE="1096,810 1141,805 1186,800 1231,796 1276,792 1321,789 1366,785 1411,780 1456,776 1501,772 1546,769 1591,765 1636,762 1681,757 1726,755 1771,751 1816,748 1861,743 1906,738 1951,735 1996,730"
+                         HEIGHT="230"
+                         WIDTH="947"
+                         VPOS="621"
+                         HPOS="1071">
+                  <String ID="string_region_1599574026250_3522l4"
+                          HEIGHT="230"
+                          WIDTH="947"
+                          VPOS="621"
+                          HPOS="1071"
+                          CONTENT="o thet these y ll be"/>
+               </TextLine>
+               <TextLine ID="region_1599574026250_3522l5"
+                         BASELINE="1306,902 1332,900 1358,897 1384,895 1410,893 1437,891 1463,889 1489,887 1515,884 1541,883 1568,882 1594,880 1620,879 1646,877 1672,876 1699,873 1725,871 1751,869 1777,867 1804,864"
+                         HEIGHT="188"
+                         WIDTH="537"
+                         VPOS="782"
+                         HPOS="1283">
+                  <String ID="string_region_1599574026250_3522l5"
+                          HEIGHT="188"
+                          WIDTH="537"
+                          VPOS="782"
+                          HPOS="1283"
+                          CONTENT="n2 pailes"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

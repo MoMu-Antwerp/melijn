@@ -5,3 +5,11 @@ De 17e en 18e-eeuwse handelscorrespondentie van de Antwerpse textielhandelaarsfa
 Binnen de context van de inhaalbeweging digitale collectieregistratie van de Vlaamse overheid schreef MoMu een project uit om het Archief Melijn digitaal te ontsluiten en te publiceren. Essentieel is dat het project hierbij gebruik tracht te maken van louter open source-initiatieven, om zo duplicatie voor gelijkaardige ontsluitingsprojecten te faciliteren.
 
 Voorbeeldmanifest in Universal Viewer [Testvolume](https://universalviewer.io/uv.html?manifest=https://data.momu.be/melijn/manifest.json).
+
+# Volumes
+
+| Inventory number        | Description           | manifest URI  |
+| ------------- |:-------------:| -----:|
+| T94/183 (MoMu)      | Brievenkopijenboek |https://museumstichting.resourcespace.com/iiif/11516/manifest|
+| T94/186 (MoMu)      | Brievenkopijenboek      |https://museumstichting.resourcespace.com/iiif/11518/manifest|
+| T94/187 | Brievenkopijenboek      |https://museumstichting.resourcespace.com/iiif/11519/manifest|
