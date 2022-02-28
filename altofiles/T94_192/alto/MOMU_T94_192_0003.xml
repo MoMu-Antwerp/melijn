@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-02-11T21:46:14.954+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="4671" WIDTH="7714">
+         <TopMargin HEIGHT="0" WIDTH="7714" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="4671" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="4671" WIDTH="0" VPOS="0" HPOS="7714"/>
+         <BottomMargin HEIGHT="0" WIDTH="7714" VPOS="4671" HPOS="0"/>
+         <PrintSpace HEIGHT="4671" WIDTH="7714" VPOS="0" HPOS="0">
+            <TextBlock ID="region_1644581967108_1130"
+                       HEIGHT="782"
+                       WIDTH="2188"
+                       VPOS="456"
+                       HPOS="3428">
+               <Shape>
+                  <Polygon POINTS="3428,580 5616,456 5606,1238 3428,1238"/>
+               </Shape>
+               <TextLine ID="region_1644581967108_1130l1"
+                         BASELINE="3516,718 3616,714 3717,710 3818,706 3919,702 4020,696 4120,692 4221,687 4322,682 4423,678 4524,674 4624,668 4725,664 4826,659 4927,654 5028,650 5128,645 5229,641 5330,635 5431,631 5532,626"
+                         HEIGHT="218"
+                         WIDTH="2046"
+                         VPOS="534"
+                         HPOS="3500">
+                  <String ID="string_region_1644581967108_1130l1"
+                          HEIGHT="218"
+                          WIDTH="2046"
+                          VPOS="534"
+                          HPOS="3500"
+                          CONTENT="daps 164 rt: te reflecteren nopende de onleintenisse daer by y"/>
+               </TextLine>
+               <TextLine ID="region_1644581967108_1130l2"
+                         BASELINE="3504,840 3571,834 3639,827 3706,822 3774,817 3842,813 3909,809 3977,806 4044,804 4112,802 4180,800 4247,798 4315,798 4382,796 4450,796 4517,794 4585,794 4653,792 4720,792 4788,790 4856,788"
+                         HEIGHT="172"
+                         WIDTH="1380"
+                         VPOS="722"
+                         HPOS="3489">
+                  <String ID="string_region_1644581967108_1130l2"
+                          HEIGHT="172"
+                          WIDTH="1380"
+                          VPOS="722"
+                          HPOS="3489"
+                          CONTENT="duys 169 rogende petg lits van 106 van regliegue"/>
+               </TextLine>
+               <TextLine ID="region_1644581967108_1130l3"
+                         BASELINE="3648,932 3697,928 3747,924 3796,922 3846,918 3896,915 3945,912 3995,908 4044,905 4094,903 4144,900 4193,898 4243,895 4292,893 4342,891 4392,889 4441,888 4491,886 4540,886 4590,884 4640,884"
+                         HEIGHT="157"
+                         WIDTH="1022"
+                         VPOS="826"
+                         HPOS="3632">
+                  <String ID="string_region_1644581967108_1130l3"
+                          HEIGHT="157"
+                          WIDTH="1022"
+                          VPOS="826"
+                          HPOS="3632"
+                          CONTENT="181 nopende den 120 van vjluque"/>
+               </TextLine>
+               <TextLine ID="region_1644581967108_1130l4"
+                         BASELINE="3660,1044 3739,1039 3818,1033 3897,1028 3976,1024 4055,1021 4134,1018 4213,1017 4292,1014 4371,1014 4451,1012 4530,1010 4609,1010 4688,1008 4767,1008 4846,1006 4925,1004 5004,1002 5083,1000 5162,998 5242,994"
+                         HEIGHT="220"
+                         WIDTH="1610"
+                         VPOS="893"
+                         HPOS="3646">
+                  <String ID="string_region_1644581967108_1130l4"
+                          HEIGHT="220"
+                          WIDTH="1610"
+                          VPOS="893"
+                          HPOS="3646"
+                          CONTENT="196 nopende het 2 het van 130 Jan replique"/>
+               </TextLine>
+               <TextLine ID="region_1644581967108_1130l5"
+                         BASELINE="3512,1156 3586,1154 3661,1152 3735,1150 3810,1146 3885,1144 3959,1140 4034,1138 4108,1134 4183,1131 4258,1128 4332,1124 4407,1119 4481,1116 4556,1112 4631,1108 4705,1105 4780,1100 4854,1096 4929,1093 5004,1090"
+                         HEIGHT="182"
+                         WIDTH="1521"
+                         VPOS="1020"
+                         HPOS="3497">
+                  <String ID="string_region_1644581967108_1130l5"
+                          HEIGHT="182"
+                          WIDTH="1521"
+                          VPOS="1020"
+                          HPOS="3497"
+                          CONTENT="209 218 nogende den 138 tot 144 pcolus van te lirqu"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-02-11T21:33:13.486+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3934" WIDTH="5509">
+         <TopMargin HEIGHT="0" WIDTH="5509" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="3934" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="3934" WIDTH="0" VPOS="0" HPOS="5509"/>
+         <BottomMargin HEIGHT="0" WIDTH="5509" VPOS="3934" HPOS="0"/>
+         <PrintSpace HEIGHT="3934" WIDTH="5509" VPOS="0" HPOS="0">
+            <TextBlock ID="region_1638874756943_896"
+                       HEIGHT="1165"
+                       WIDTH="3124"
+                       VPOS="1154"
+                       HPOS="1308">
+               <Shape>
+                  <Polygon POINTS="1308,1154 4432,1154 4432,2319 1308,2319"/>
+               </Shape>
+               <TextLine ID="region_1638874756943_896l1"
+                         BASELINE="3164,1480 3191,1475 3218,1471 3246,1467 3273,1464 3301,1460 3328,1457 3355,1454 3383,1454 3410,1451 3438,1450 3465,1449 3492,1448 3520,1446 3547,1446 3575,1446 3602,1445 3629,1444 3657,1444 3684,1444 3712,1444"
+                         HEIGHT="224"
+                         WIDTH="592"
+                         VPOS="1325"
+                         HPOS="3140">
+                  <String ID="string_region_1638874756943_896l1"
+                          HEIGHT="224"
+                          WIDTH="592"
+                          VPOS="1325"
+                          HPOS="3140"
+                          CONTENT="augusty 1716"/>
+               </TextLine>
+               <TextLine ID="region_1638874756943_896l2"
+                         BASELINE="1538,1484 1596,1485 1654,1487 1712,1488 1770,1490 1828,1490 1886,1492 1944,1492 2002,1494 2060,1494 2118,1494 2176,1494 2234,1494 2292,1494 2350,1492 2408,1492 2466,1490 2524,1488 2582,1485 2640,1483 2698,1480"
+                         HEIGHT="210"
+                         WIDTH="1194"
+                         VPOS="1362"
+                         HPOS="1522">
+                  <String ID="string_region_1638874756943_896l2"
+                          HEIGHT="210"
+                          WIDTH="1194"
+                          VPOS="1362"
+                          HPOS="1522"
+                          CONTENT="Amsterdam fracciseus Rousseau"/>
+               </TextLine>
+               <TextLine ID="region_1638874756943_896l3"
+                         BASELINE="1534,1664 1668,1668 1802,1670 1936,1672 2071,1672 2205,1670 2339,1668 2474,1664 2608,1660 2742,1656 2877,1650 3011,1646 3145,1640 3279,1636 3414,1632 3548,1628 3682,1626 3817,1624 3951,1622 4085,1623 4220,1624"
+                         HEIGHT="182"
+                         WIDTH="2718"
+                         VPOS="1535"
+                         HPOS="1516">
+                  <String ID="string_region_1638874756943_896l3"
+                          HEIGHT="182"
+                          WIDTH="2718"
+                          VPOS="1535"
+                          HPOS="1516"
+                          CONTENT="E misseve van den 6 deser met de remises hebbe wel ontfange mijnen man is"/>
+               </TextLine>
+               <TextLine ID="region_1638874756943_896l4"
+                         BASELINE="1544,1754 1680,1756 1816,1756 1952,1756 2088,1756 2224,1756 2360,1754 2496,1754 2632,1752 2768,1750 2904,1748 3040,1744 3176,1742 3312,1738 3448,1736 3584,1732 3720,1728 3856,1724 3992,1718 4128,1714 4264,1708"
+                         HEIGHT="143"
+                         WIDTH="2757"
+                         VPOS="1634"
+                         HPOS="1526">
+                  <String ID="string_region_1638874756943_896l4"
+                          HEIGHT="143"
+                          WIDTH="2757"
+                          VPOS="1634"
+                          HPOS="1526"
+                          CONTENT="voor weijnige daee uyt de stat en sal niet manekeren ue par naste scant "/>
+               </TextLine>
+               <TextLine ID="region_1638874756943_896l5"
+                         BASELINE="1526,1848 1573,1849 1620,1852 1668,1854 1715,1856 1763,1858 1810,1858 1857,1858 1905,1860 1952,1859 2000,1858 2047,1858 2094,1858 2142,1856 2189,1856 2237,1854 2284,1854 2331,1852 2379,1850 2426,1850 2474,1848"
+                         HEIGHT="185"
+                         WIDTH="983"
+                         VPOS="1753"
+                         HPOS="1508">
+                  <String ID="string_region_1638874756943_896l5"
+                          HEIGHT="185"
+                          WIDTH="983"
+                          VPOS="1753"
+                          HPOS="1508"
+                          CONTENT="woorde blijve met resgect"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

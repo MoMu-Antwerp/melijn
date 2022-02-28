@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-02-11T21:34:03.419+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3926" WIDTH="5174">
+         <TopMargin HEIGHT="0" WIDTH="5174" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="3926" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="3926" WIDTH="0" VPOS="0" HPOS="5174"/>
+         <BottomMargin HEIGHT="0" WIDTH="5174" VPOS="3926" HPOS="0"/>
+         <PrintSpace HEIGHT="3926" WIDTH="5174" VPOS="0" HPOS="0">
+            <TextBlock ID="region_1644609196236_5458"
+                       HEIGHT="3837"
+                       WIDTH="2296"
+                       VPOS="39"
+                       HPOS="489">
+               <Shape>
+                  <Polygon POINTS="489,39 2785,39 2785,3876 489,3876"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="region_1644609198907_5461"
+                       HEIGHT="3897"
+                       WIDTH="2251"
+                       VPOS="9"
+                       HPOS="2853">
+               <Shape>
+                  <Polygon POINTS="2853,9 5104,9 5104,3906 2853,3906"/>
+               </Shape>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

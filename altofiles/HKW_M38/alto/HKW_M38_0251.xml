@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-02-11T21:34:06.219+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3897" WIDTH="5079">
+         <TopMargin HEIGHT="0" WIDTH="5079" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="3897" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="3897" WIDTH="0" VPOS="0" HPOS="5079"/>
+         <BottomMargin HEIGHT="0" WIDTH="5079" VPOS="3897" HPOS="0"/>
+         <PrintSpace HEIGHT="3897" WIDTH="5079" VPOS="0" HPOS="0">
+            <TextBlock ID="region_1644326963545_10139"
+                       HEIGHT="1223"
+                       WIDTH="2126"
+                       VPOS="1296"
+                       HPOS="1608">
+               <Shape>
+                  <Polygon POINTS="1608,1296 3734,1296 3734,2519 1608,2519"/>
+               </Shape>
+               <TextLine ID="region_1644326963545_10139l1"
+                         BASELINE="1804,1730 1878,1728 1953,1727 2027,1726 2102,1724 2177,1721 2251,1718 2326,1715 2400,1712 2475,1708 2550,1704 2624,1701 2699,1696 2773,1691 2848,1688 2923,1682 2997,1678 3072,1674 3146,1670 3221,1666 3296,1662"
+                         HEIGHT="282"
+                         WIDTH="1519"
+                         VPOS="1498"
+                         HPOS="1787">
+                  <String ID="string_region_1644326963545_10139l1"
+                          HEIGHT="282"
+                          WIDTH="1519"
+                          VPOS="1498"
+                          HPOS="1787"
+                          CONTENT="van A de Since 9 quate sijn"/>
+               </TextLine>
+               <TextLine ID="region_1644326963545_10139l2"
+                         BASELINE="1794,1894 1837,1896 1880,1896 1923,1898 1966,1898 2010,1898 2053,1898 2096,1898 2139,1896 2182,1895 2226,1894 2269,1892 2312,1889 2355,1887 2398,1885 2442,1881 2485,1877 2528,1874 2571,1870 2614,1866 2658,1862"
+                         HEIGHT="226"
+                         WIDTH="889"
+                         VPOS="1723"
+                         HPOS="1780">
+                  <String ID="string_region_1644326963545_10139l2"
+                          HEIGHT="226"
+                          WIDTH="889"
+                          VPOS="1723"
+                          HPOS="1780"
+                          CONTENT="voor AB Lunde"/>
+               </TextLine>
+               <TextLine ID="region_1644326963545_10139l3"
+                         BASELINE="2404,2036 2430,2036 2456,2034 2482,2033 2509,2030 2535,2026 2561,2021 2588,2012"
+                         HEIGHT="254"
+                         WIDTH="217"
+                         VPOS="1878"
+                         HPOS="2386">
+                  <String ID="string_region_1644326963545_10139l3"
+                          HEIGHT="254"
+                          WIDTH="217"
+                          VPOS="1878"
+                          HPOS="2386"
+                          CONTENT="Aos"/>
+               </TextLine>
+               <TextLine ID="region_1644326963545_10139l4"
+                         BASELINE="2654,2064 2686,2061 2718,2060 2751,2057 2783,2054 2816,2052 2848,2048 2880,2044 2913,2041 2945,2037 2978,2034 3010,2030 3042,2028 3075,2024 3107,2024 3140,2021 3172,2020 3204,2018 3237,2018 3269,2018 3302,2020"
+                         HEIGHT="233"
+                         WIDTH="670"
+                         VPOS="1863"
+                         HPOS="2642">
+                  <String ID="string_region_1644326963545_10139l4"
+                          HEIGHT="233"
+                          WIDTH="670"
+                          VPOS="1863"
+                          HPOS="2642"
+                          CONTENT="Lachene"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

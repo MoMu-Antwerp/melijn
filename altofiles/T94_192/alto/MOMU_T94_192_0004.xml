@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-02-11T21:46:15.074+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="4678" WIDTH="7714">
+         <TopMargin HEIGHT="0" WIDTH="7714" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="4678" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="4678" WIDTH="0" VPOS="0" HPOS="7714"/>
+         <BottomMargin HEIGHT="0" WIDTH="7714" VPOS="4678" HPOS="0"/>
+         <PrintSpace HEIGHT="4678" WIDTH="7714" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="156" WIDTH="400" VPOS="4294" HPOS="3442">
+               <Shape>
+                  <Polygon POINTS="3442,4294 3442,4450 3842,4450 3842,4294"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="3442,4396 3467,4396 3492,4396 3517,4394 3542,4394 3567,4394 3592,4394 3617,4394 3642,4394 3667,4394 3692,4394 3717,4394 3742,4395 3767,4396 3792,4397 3817,4400 3842,4400"
+                         HEIGHT="283"
+                         WIDTH="442"
+                         VPOS="4172"
+                         HPOS="3423">
+                  <String ID="string_r1l1"
+                          HEIGHT="283"
+                          WIDTH="442"
+                          VPOS="4172"
+                          HPOS="3423"
+                          CONTENT="19:418:"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

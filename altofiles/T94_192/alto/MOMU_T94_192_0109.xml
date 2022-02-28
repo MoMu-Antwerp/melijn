@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-02-11T21:46:22.002+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="4665" WIDTH="8008">
+         <TopMargin HEIGHT="0" WIDTH="8008" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="4665" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="4665" WIDTH="0" VPOS="0" HPOS="8008"/>
+         <BottomMargin HEIGHT="0" WIDTH="8008" VPOS="4665" HPOS="0"/>
+         <PrintSpace HEIGHT="4665" WIDTH="8008" VPOS="0" HPOS="0">
+            <TextBlock ID="region_1644586350352_2524"
+                       HEIGHT="661"
+                       WIDTH="1829"
+                       VPOS="2744"
+                       HPOS="935">
+               <Shape>
+                  <Polygon POINTS="935,2744 2764,2831 2735,3405 935,3405"/>
+               </Shape>
+               <TextLine ID="region_1644586350352_2524l1"
+                         BASELINE="956,2874 1038,2872 1120,2870 1203,2870 1285,2872 1368,2876 1450,2879 1532,2883 1615,2888 1697,2893 1780,2899 1862,2905 1944,2910 2027,2916 2109,2921 2192,2925 2274,2930 2356,2932 2439,2934 2521,2936 2604,2936"
+                         HEIGHT="197"
+                         WIDTH="1671"
+                         VPOS="2757"
+                         HPOS="947">
+                  <String ID="string_region_1644586350352_2524l1"
+                          HEIGHT="197"
+                          WIDTH="1671"
+                          VPOS="2757"
+                          HPOS="947"
+                          CONTENT=" Jacobusa Annboreren e"/>
+               </TextLine>
+               <TextLine ID="region_1644586350352_2524l2"
+                         BASELINE="980,3032 1068,3034 1156,3038 1244,3042 1333,3046 1421,3050 1509,3054 1598,3058 1686,3062 1774,3067 1863,3072 1951,3076 2039,3078 2127,3081 2216,3082 2304,3084 2392,3084 2481,3082 2569,3079 2657,3076 2746,3070"
+                         HEIGHT="180"
+                         WIDTH="1793"
+                         VPOS="2945"
+                         HPOS="968">
+                  <String ID="string_region_1644586350352_2524l2"
+                          HEIGHT="180"
+                          WIDTH="1793"
+                          VPOS="2945"
+                          HPOS="968"
+                          CONTENT="Contray nlestre airesse a Lille a "/>
+               </TextLine>
+               <TextLine ID="region_1644586350352_2524l3"
+                         BASELINE="996,3162 1068,3164 1140,3166 1212,3168 1284,3172 1356,3175 1428,3179 1500,3182 1572,3187 1644,3190 1716,3193 1788,3196 1860,3199 1932,3200 2004,3202 2076,3202 2148,3202 2220,3202 2292,3199 2364,3196 2436,3190"
+                         HEIGHT="199"
+                         WIDTH="1466"
+                         VPOS="3072"
+                         HPOS="984">
+                  <String ID="string_region_1644586350352_2524l3"
+                          HEIGHT="199"
+                          WIDTH="1466"
+                          VPOS="3072"
+                          HPOS="984"
+                          CONTENT="mait Dacremerrare du palceno"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

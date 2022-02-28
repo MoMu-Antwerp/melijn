@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-02-11T21:33:45.147+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3897" WIDTH="5150">
+         <TopMargin HEIGHT="0" WIDTH="5150" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="3897" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="3897" WIDTH="0" VPOS="0" HPOS="5150"/>
+         <BottomMargin HEIGHT="0" WIDTH="5150" VPOS="3897" HPOS="0"/>
+         <PrintSpace HEIGHT="3897" WIDTH="5150" VPOS="0" HPOS="0">
+            <TextBlock ID="region_1644233453111_7884"
+                       HEIGHT="3790"
+                       WIDTH="2549"
+                       VPOS="31"
+                       HPOS="2513">
+               <Shape>
+                  <Polygon POINTS="2513,31 5062,31 5062,3821 2513,3821"/>
+               </Shape>
+               <TextLine ID="region_1644233453111_7884l1"
+                         BASELINE="2750,710 2825,707 2901,703 2977,701 3053,699 3129,698 3205,696 3281,696 3357,696 3433,698 3509,698 3584,700 3660,700 3736,703 3812,704 3888,706 3964,709 4040,711 4116,714 4192,716 4268,716"
+                         HEIGHT="284"
+                         WIDTH="1539"
+                         VPOS="534"
+                         HPOS="2739">
+                  <String ID="string_region_1644233453111_7884l1"
+                          HEIGHT="284"
+                          WIDTH="1539"
+                          VPOS="534"
+                          HPOS="2739"
+                          CONTENT="Rekeninge door Jacq."/>
+               </TextLine>
+               <TextLine ID="region_1644233453111_7884l2"
+                         BASELINE="2852,892 2925,887 2999,882 3073,879 3147,876 3221,874 3294,872 3368,872 3442,872 3516,872 3590,872 3663,874 3737,874 3811,876 3885,876 3959,878 4032,878 4106,878 4180,878 4254,878 4328,876"
+                         HEIGHT="193"
+                         WIDTH="1494"
+                         VPOS="726"
+                         HPOS="2843">
+                  <String ID="string_region_1644233453111_7884l2"
+                          HEIGHT="193"
+                          WIDTH="1494"
+                          VPOS="726"
+                          HPOS="2843"
+                          CONTENT="Landen Bergheovenden"/>
+               </TextLine>
+               <TextLine ID="region_1644233453111_7884l3"
+                         BASELINE="2832,1068 2893,1064 2955,1060 3017,1058 3079,1056 3141,1054 3202,1052 3264,1052 3326,1051 3388,1050 3450,1050 3511,1050 3573,1050 3635,1048 3697,1048 3759,1048 3820,1046 3882,1044 3944,1042 4006,1040 4068,1036"
+                         HEIGHT="225"
+                         WIDTH="1257"
+                         VPOS="905"
+                         HPOS="2820">
+                  <String ID="string_region_1644233453111_7884l3"
+                          HEIGHT="225"
+                          WIDTH="1257"
+                          VPOS="905"
+                          HPOS="2820"
+                          CONTENT="Boedel in solvent van"/>
+               </TextLine>
+               <TextLine ID="region_1644233453111_7884l4"
+                         BASELINE="2824,1256 2899,1247 2974,1242 3049,1238 3124,1234 3199,1232 3274,1230 3349,1228 3424,1228 3499,1228 3574,1228 3649,1230 3724,1230 3799,1230 3874,1230 3949,1230 4024,1230 4099,1229 4174,1228 4249,1224 4324,1220"
+                         HEIGHT="304"
+                         WIDTH="1520"
+                         VPOS="1069"
+                         HPOS="2814">
+                  <String ID="string_region_1644233453111_7884l4"
+                          HEIGHT="304"
+                          WIDTH="1520"
+                          VPOS="1069"
+                          HPOS="2814"
+                          CONTENT="Repiuer de Buck tot Gent"/>
+               </TextLine>
+               <TextLine ID="region_1644233453111_7884l5"
+                         BASELINE="3250,1502 3278,1500 3306,1499 3335,1498 3363,1496 3392,1494 3420,1493 3448,1491 3477,1489 3505,1488 3534,1485 3562,1483 3590,1482 3619,1480 3647,1479 3676,1478 3704,1476 3732,1476 3761,1474 3789,1474 3818,1474"
+                         HEIGHT="220"
+                         WIDTH="598"
+                         VPOS="1305"
+                         HPOS="3231">
+                  <String ID="string_region_1644233453111_7884l5"
+                          HEIGHT="220"
+                          WIDTH="598"
+                          VPOS="1305"
+                          HPOS="3231"
+                          CONTENT="146"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
