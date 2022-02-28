@@ -1,0 +1,570 @@
+
+        {
+            "@context":"http://iiif.io/api/presentation/2/context.json",
+            "@id":"http://data.momu.be/melijn/annotations/T94_187/0191.json",
+            "@type":"sc:AnnotationList",
+            "resources":[
+                
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"28 maij 1696 n Antwarp"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=2009,127,1082,178"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"1o Provide"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=2027,252,413,154"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"2"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=955,375,96,140"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"14 draps to each past. 2 p. from N1. to 7„"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1938,332,1426,190"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"in prises from 9 to 9 st"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=2014,444,892,163"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"3"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=946,488,102,183"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"6 draps more to the newest mode ifanney"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1942,532,1423,164"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"better cullours are if non"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=2019,650,877,147"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"4 e"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=964,659,235,123"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"to N.° 2:3:4"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=2161,745,585,165"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"of about 10 ƒ"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=2137,839,564,162"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"12 P. to each pass 2 p from N8 to N. 13"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1914,943,1428,141"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"the lowest prises that are to be had under"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=2019,1055,1324,149"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"8 sb ayd from 636 to 73 a 7ƒ6"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=2010,1142,1363,200"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"10"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=982,1299,82,91"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"to 4:8 of 9 a 10"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=2017,1256,769,157"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"11"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=986,1375,75,92"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"10 „ 9 of 9"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=2024,1349,600,167"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"110„10 of"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1967,1452,449,128"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"12"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=982,1460,99,117"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"9 a 10 t"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=2401,1441,405,178"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"11o„ 11 of 9 ƒ"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1955,1541,602,168"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"13"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=965,1627,96,126"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"36 P. tor 3 packes"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1878,1646,788,158"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"as soone as I have yd advise how cottons"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1940,1747,1413,182"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"reds 8c. sellf shall give orders al you shall"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1943,1872,1406,172"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"advise mee best time"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1939,1969,738,134"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"00"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3290,2056,82,97"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    }
+            ]
+        }
+    

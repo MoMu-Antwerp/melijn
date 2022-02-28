@@ -1,0 +1,2330 @@
+
+        {
+            "@context":"http://iiif.io/api/presentation/2/context.json",
+            "@id":"http://data.momu.be/melijn/annotations/T94_187/0224.json",
+            "@type":"sc:AnnotationList",
+            "resources":[
+                
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"adij 29 Auy"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=2600,160,532,132"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"brussel govaert ververs"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=888,174,855,130"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"ick hadde dheer verwacht souft ul dochter voor haer vertreet"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1126,200,2228,184"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"noch te sprecken het welck niet geschiet sijnde, sende ick ul ingesloten"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1149,322,2227,147"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"de facture van de 3 flannellen ende 6 kersijen aen haer vercocht"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1127,396,2168,142"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"waer van de 6 kersijen heden blouw geverft sijn soo te droogh sijn"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1136,470,2218,159"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"sal se met de flanellen citto voortsenden godt geve dat ons convoij"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1141,576,2229,135"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"van londen met de eersten magh arriveeren. als wanner ick hope ul"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1137,645,2207,125"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"mij dheer sal geven van te comen besoecken sal in alle occosie toomen"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1138,726,2257,146"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"29d"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=2894,828,211,120"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"brussel benaerd vanden clooster"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=895,817,1119,210"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"hebbe heden op ul getrocken ƒ400:- wisselgelt het welck versoecke"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1143,859,2202,205"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"gelieft te betaelen aen mons. Anthoni rousseau, ul sal mij"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1145,1002,2197,157"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"particulierlijck verobligeeren, soo haest ons convoij gearriveert"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1135,1063,2179,182"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"is sal het al laeten weesen, hope dat ick de heere sal hebbenaen"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1155,1198,2229,106"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"ul partije te coopen, bidde den ingesloten aen mons. ververste"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1154,1279,2195,151"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"behandigen sult verobligeeren die naer groetenisse blijve"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1160,1348,2050,166"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"29 d."
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=2964,1445,229,145"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"brussel christiaen segers"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=909,1430,987,208"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"volgens den ul van 24 deser hebbe heden op ul getrocken ƒ200:-"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1144,1480,2256,186"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"wisselgelde het welcke versoecke gelieft te betaele aen mons Antoni"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1148,1614,2223,129"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"rousseau, twijffele niet oft ul hebt het leste goet ontfangen, soo"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1157,1687,2162,138"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"het convoij arriveert sal al het laeten weten die blijve."
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1167,1783,1943,179"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"29 d"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=2846,1852,325,157"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"brussel henij russel"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=902,1859,783,181"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"alsoo onsconvoij dagelijckx verwacht wort, waermede veel vers goet"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1152,1922,2227,170"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"hope te becomen soo ben ick om gelt verlegen deralven heden op ul"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1164,2049,2184,118"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"trecke ƒ150:- wisselgelde het welck versoeke aen mons. rousseau"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1163,2121,2137,126"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"gelieft te betaelen soo haest de goederen hier sijn sal ul laeten"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1151,2200,2175,173"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"weeten, waerin middele tijdt can dienst doen commandeert die blijve"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1139,2276,2230,140"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"29 d."
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3042,2355,246,148"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"brussel Jan Sonaert"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=914,2390,706,166"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"ick hebbe heden op ul getroecken ƒ 300: wisselgelt te betaelen aen"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1166,2406,2219,188"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"mons: Anthoni rousseau het welck vrindelijck versoeck aen hem"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1163,2524,2173,170"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"gelieft te voldoen, het convoij met vers goet wort dagelijckx"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1158,2629,2050,156"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"verwacht arriveerende sal ick het selve laeten weeten op hope"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1153,2667,2180,207"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"van ul calendigie, sal doen al wat mogelijck is. blijve."
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1171,2796,1809,143"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"20"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3112,2828,134,98"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"29 d."
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=2991,2892,218,107"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"brussel Andries Aerssens"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=923,2851,869,173"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"in langen tijdt dheer niet gehadt van ul commande, ons convoij"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1165,2887,2183,179"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"van londen woort daegelijck verwacht, als wanneer ul het selve sal"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1161,3007,2213,143"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"laeten weeten, want ick seer veele verse goederen hope te becomen"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1173,3100,2232,134"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"daer en tusschen hebbe ick heden op ul getrocken ƒ300:- wisselg"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1164,3171,2237,149"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"het gene versoeke gelieft te betaelen den mons t: Anthonirousseau"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1176,3265,2223,133"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"en voor soo veel als dan noch sal resteeren, can ul daer naer eens"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1173,3341,2182,140"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"eftenen, ter wijle hope mij heer sult geven ul calendige blijve"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1198,3422,2063,163"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"29 d."
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3024,3498,247,130"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"brussel hendrick de Smet"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=931,3502,903,152"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"ons convoij van londen wort alle hueren verwacht, soo de goederen hier"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1158,3528,2161,156"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"sijn sal ul laeten weten, daer en tussen dencke ick dat ul nu eenich"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1173,3658,2195,133"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"gelt gereet hebt het gene de reden is dat ick ƒ 300: wisselgelt op ul trecke"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1152,3718,2259,143"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"te betaelen aen mons Anthoni rousseau het welck ul bidde hem"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1167,3781,2201,141"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"gelieft te doen, sal oock al doen wat mogelijck is om ul te dienen"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1165,3865,2185,177"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"en goeden coop te geven, waerop moght verlaeten, ter wijle blijve"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1178,3952,2210,150"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"brussel Jouff: de wed: vander borght"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=890,4000,1210,199"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"29 d"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3063,4041,221,117"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"ons convoij van londen woort alle heueren verwacht soo de goederen"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1167,4092,2219,136"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"arriveeren sal ul laeten weeten, daer en tussen, soo het ul gelegen cost"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1160,4174,2220,126"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"eenich gelt te geven, soo gelieft het selve aen mons. antt Rousseau te"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1171,4243,2201,99"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"betaelen hebbe hem een bewijs van ƒ4 a 500:- wisselgelde toegesonden"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1172,4306,2238,129"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"omi ddele tijdt iess voorvallende gelieft te commanderen die blijve"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=1172,4362,1980,143"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"brussel guill walravens"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3441,158,708,130"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"adj 29 Augusti 1696"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=5175,167,771,140"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"in antwort aenden ul van 20 en 27 deser souffe vermeulen heeft een hondert"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3538,202,2424,182"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"en twintich gulden betaelt, soo sende dit ander briefken tat haren laste wederom"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3537,349,2476,102"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"ick soude ul eender beantwort hebben, maer hadderaeker uiyt de stadt geweest"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3545,425,2418,146"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"en heeft mij selijdt dat gelt te brengen als wanneer mij noch sal resteeren"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3529,486,2439,155"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"ƒ 123:16 waer aen ick niet verstaen te laeten corten, ick can niet bedencken wet"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3543,588,2470,143"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"ul overgaet ul sal int toecomende soo goeden coop niet conmen coopen de convojen"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3538,629,2454,199"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"worden daegelijckx verwacht, en soo haest de goederen hier stillen sijn sal ick ul"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3542,759,2430,111"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"de prijse schrijven, gelieft ul dan over te comen sal al doen wat mogelijck is"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3548,823,2445,170"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"ende beter coop geven om ul goede betaelinge als een ander waerop ul sich"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3534,885,2452,165"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"magh verlaeten, gelieft ul dat ick het op ul trecke soo sal ul moeten betaelen"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3547,1014,2438,94"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"ƒ823:16 sal ul ordre afwachten waermede blijve"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3473,1060,1701,164"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"39 d."
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=5442,1108,259,182"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"brussel Anthoni rousseau"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3431,1141,797,153"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"naijant pas un une lettre de vre ne servira la presente qui pour courvert"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3535,1170,2450,206"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"de 7 assingnes, si iontes mentione au pied de cette les quelles ie spere trou"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3539,1328,2444,111"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"veront les payement, vous priant dimployer vre benevolance ordinaire"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3513,1393,2454,165"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"principaelement au regard de mons. de smet et fertsens, dont ie vous deut"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3529,1533,2453,127"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"la bonne suitte faite comme pour vous maine, et commadede me reciprocement"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3534,1613,2476,133"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"sur christiaen segers argent de change ƒ 200:-"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3682,1679,1539,145"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"sur henrij rijssels ditto"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3676,1745,846,131"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"„150:"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=4904,1771,313,127"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"sur benaerd van den clooster ditto „ 400:-"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3674,1796,1575,163"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"hur Jan Jonaert ditto"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3686,1914,796,138"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"„300:"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=4936,1951,281,109"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"sor Andries Aert sens ditto"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3686,1993,1069,136"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"300:-"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=4923,2030,322,132"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"sur henrij ij ditto de smet"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3681,2069,1059,152"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"„ 300:-"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=4934,2121,289,106"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"sier la veu vander borght courant ƒ 400: a 500:-"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3671,2153,1848,150"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"ƒ 2050:"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=4841,2242,375,156"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Rotterdam Abram de bra"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3452,2276,855,169"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"30 d."
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=5493,2350,235,123"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"in antwort Aen duwe van 28 deser miets uwe verstaet dat mijn gepro"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3541,2369,2454,197"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"gecteerde clausele in de police wort vervat, soo sullen wij het daer bij laeten"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3532,2494,2452,156"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"en omdat ick geerne weete met wie ick te doen hebbe soo sal ick ul voor"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3547,2574,2442,154"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"1p descredre crediteeren, met hope dat die premio sal verdient worden i"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3547,2670,2483,114"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"sonder schade, nochtans bij goet arrivement sekerlijck eenige avane sal"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3531,2740,2457,159"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"voorvallen om dat die scheepen over wontert hebben het wel ul imers"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3514,2857,2491,145"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"duijdelijck genoch hebbe geschreven, soo haest convoij naer londen valt gestelt"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3535,2931,2472,190"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"is versoecke mij het selve te laeten weten, om vogens mijn messures te nemen"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3532,3029,2458,165"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"wensche dat van hul int cort moght behouden comen om dat daer bij al wat"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3521,3068,2434,190"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"sal sijn geintreskeert wat passeert verneme geerne waermede blijve"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3539,3187,2252,201"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"neerhous de wed: putsijs"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3444,3239,790,153"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"31d"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=5549,3321,269,126"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"volgens ul ordre hebt ick heden met den voorman gesonden de 2 lakens"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3540,3304,2454,236"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"die ul voorlede weeck mij heeft voldaen ick hebbe daer bij gedaen het spaens"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3531,3427,2459,202"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"lakens ende het root bedraegende te samen als blijckt bij de medegaende"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3548,3515,2418,211"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"facture ƒ 165:17½ ick en twijffele niet oft gij sult alles wel bevinden"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3542,3614,2456,199"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"maer soo goeden coop sult gij voortaen niet meer coopen, het spaenslalen"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3531,3688,2484,220"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"dat vers comen is daer ick ul van gesprocken hadde a ƒ63- valt wel ƒ1:- op"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3539,3803,2423,183"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"del erger als duwe, soo hebbe dat ongesien niet derven senden iets ander"
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3536,3893,2447,135"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"tot ul dienst commandeert liberlijck die blijve."
+                        },
+                        "on":"https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322#xywh=3539,3986,1692,132"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "https://data.momu.be/melijn/MelijnT94_187_manifest_compleet_annotaties.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    }
+            ]
+        }
+    

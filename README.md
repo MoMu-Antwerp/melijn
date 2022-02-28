@@ -9,8 +9,8 @@ Voorbeeldmanifest in Universal Viewer
 
 # Volumes
 
-| Inventory number        | Description           | manifest URI  |
-| ------------- |:-------------:| -----:|
-| T94/183 (MoMu)      | Brievenkopijenboek |[manifest](https://museumstichting.resourcespace.com/iiif/11515/manifest)<br>[universalviewer](https://universalviewer.io/uv.html?manifest=https://museumstichting.resourcespace.com/iiif/11515/manifest)|
-| T94/186 (MoMu)      | Brievenkopijenboek      |[manifest](https://museumstichting.resourcespace.com/iiif/11518/manifest)<br>[universalviewer](https://universalviewer.io/uv.html?manifest=https://museumstichting.resourcespace.com/iiif/11518/manifest)|
-| T94/187 | Brievenkopijenboek      |[manifest](https://museumstichting.resourcespace.com/iiif/11519/manifest)<br>[universalviewer](https://universalviewer.io/uv.html?manifest=https://museumstichting.resourcespace.com/iiif/11519/manifest)|
+| Inventory number        | Description           | manifest URI  | Transcriptions |
+| ------------- |:-------------:| -----:| -----:|
+| T94/183 (MoMu)      | Brievenkopijenboek |[manifest](https://museumstichting.resourcespace.com/iiif/11515/manifest)<br>[universalviewer](https://universalviewer.io/uv.html?manifest=https://museumstichting.resourcespace.com/iiif/11515/manifest)| [alto files](https://github.com/MoMu-Antwerp/melijn/tree/main/altofiles/T94_187)<br>[annotations](https://github.com/MoMu-Antwerp/melijn/tree/main/annotations/T94_187) |
+| T94/186 (MoMu)      | Brievenkopijenboek      |[manifest](https://museumstichting.resourcespace.com/iiif/11518/manifest)<br>[universalviewer](https://universalviewer.io/uv.html?manifest=https://museumstichting.resourcespace.com/iiif/11518/manifest)| |
+| T94/187 | Brievenkopijenboek      |[manifest](https://museumstichting.resourcespace.com/iiif/11519/manifest)<br>[universalviewer](https://universalviewer.io/uv.html?manifest=https://museumstichting.resourcespace.com/iiif/11519/manifest)| |
