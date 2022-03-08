@@ -104,7 +104,7 @@
 		},
 		{
 			"label": "Copyright Notice",
-			"value": "Â© ModeMuseum Antwerpen"
+			"value": "© ModeMuseum Antwerpen"
 		},
 		{
 			"label": "Credit",
@@ -200,7 +200,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/341"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47903hpr_0001.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/340",
@@ -240,7 +247,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/340"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47904hpr_0002.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/339",
@@ -280,7 +294,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/339"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47905hpr_0003.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/338",
@@ -320,7 +341,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/338"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47906hpr_0004.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/337",
@@ -360,7 +388,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/337"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47907hpr_0005.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/336",
@@ -400,7 +435,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/336"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47908hpr_0006.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/335",
@@ -440,7 +482,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/335"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47909hpr_0007.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/334",
@@ -480,7 +529,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/334"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47910hpr_0008.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/333",
@@ -520,7 +576,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/333"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47911hpr_0009.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/332",
@@ -560,7 +623,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/332"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47912hpr_0010.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/331",
@@ -600,7 +670,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/331"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47913hpr_0011.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/330",
@@ -640,7 +717,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/330"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47914hpr_0012.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/329",
@@ -680,7 +764,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/329"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47915hpr_0013.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/328",
@@ -720,7 +811,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/328"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47916hpr_0014.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/327",
@@ -760,7 +858,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/327"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47917hpr_0015.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/326",
@@ -800,7 +905,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/326"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47918hpr_0016.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/325",
@@ -840,7 +952,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/325"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47919hpr_0017.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/324",
@@ -880,7 +999,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/324"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47920hpr_0018.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/323",
@@ -920,7 +1046,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/323"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47921hpr_0019.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322",
@@ -960,7 +1093,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47922hpr_0020.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/321",
@@ -1000,7 +1140,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/321"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47923hpr_0021.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/320",
@@ -1040,7 +1187,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/320"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47924hpr_0022.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/319",
@@ -1080,7 +1234,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/319"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47925hpr_0023.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/318",
@@ -1120,7 +1281,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/318"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47926hpr_0024.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/317",
@@ -1160,7 +1328,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/317"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47927hpr_0025.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/316",
@@ -1200,7 +1375,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/316"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47928hpr_0026.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/315",
@@ -1240,7 +1422,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/315"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47929hpr_0027.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/314",
@@ -1280,7 +1469,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/314"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47930hpr_0028.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/313",
@@ -1320,7 +1516,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/313"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47931hpr_0029.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/312",
@@ -1360,7 +1563,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/312"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47932hpr_0030.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/311",
@@ -1400,7 +1610,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/311"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47933hpr_0031.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/310",
@@ -1440,7 +1657,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/310"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47933hpr_0032.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/309",
@@ -1480,7 +1704,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/309"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47935hpr_0033.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/308",
@@ -1520,7 +1751,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/308"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47936hpr_0034.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/307",
@@ -1560,7 +1798,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/307"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47937hpr_0035.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/306",
@@ -1600,7 +1845,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/306"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47938hpr_0036.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/305",
@@ -1640,7 +1892,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/305"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47939hpr_0037.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/304",
@@ -1680,7 +1939,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/304"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47940hpr_0038.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/303",
@@ -1720,7 +1986,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/303"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47941hpr_0039.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/302",
@@ -1760,7 +2033,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/302"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47942hpr_0040.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/301",
@@ -1800,7 +2080,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/301"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47943hpr_0041.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/300",
@@ -1840,7 +2127,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/300"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47944hpr_0042.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/299",
@@ -1880,7 +2174,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/299"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47945hpr_0043.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/298",
@@ -1920,7 +2221,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/298"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47946hpr_0044.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/297",
@@ -1960,7 +2268,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/297"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47947hpr_0045.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/296",
@@ -2000,7 +2315,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/296"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47948hpr_0046.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/295",
@@ -2040,7 +2362,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/295"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47949hpr_0047.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/294",
@@ -2080,7 +2409,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/294"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47950hpr_0048.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/293",
@@ -2120,7 +2456,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/293"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47951hpr_0049.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/292",
@@ -2160,7 +2503,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/292"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47952hpr_0050.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/291",
@@ -2200,7 +2550,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/291"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47953hpr_0051.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/290",
@@ -2240,7 +2597,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/290"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47954hpr_0052.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/289",
@@ -2280,7 +2644,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/289"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47955hpr_0053.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/288",
@@ -2320,7 +2691,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/288"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47956hpr_0054.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/287",
@@ -2360,7 +2738,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/287"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47957hpr_0055.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/286",
@@ -2400,7 +2785,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/286"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47958hpr_0056.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/285",
@@ -2440,7 +2832,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/285"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47959hpr_0057.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/284",
@@ -2480,7 +2879,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/284"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47960hpr_0058.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/283",
@@ -2520,7 +2926,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/283"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47961hpr_0059.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/282",
@@ -2560,7 +2973,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/282"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47962hpr_0060.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/281",
@@ -2600,7 +3020,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/281"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47963hpr_0061.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/280",
@@ -2640,7 +3067,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/280"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47966hpr_0064.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/279",
@@ -2680,7 +3114,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/279"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47965hpr_0063.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/278",
@@ -2720,7 +3161,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/278"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47966hpr_0064.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/277",
@@ -2760,7 +3208,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/277"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47967hpr_0065.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/276",
@@ -2800,7 +3255,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/276"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47968hpr_0066.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/275",
@@ -2840,7 +3302,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/275"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47971hpr_0069.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/274",
@@ -2880,7 +3349,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/274"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47970hpr_0068.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/273",
@@ -2920,7 +3396,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/273"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47971hpr_0069.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/272",
@@ -2960,7 +3443,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/272"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47972hpr_0070.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/271",
@@ -3000,7 +3490,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/271"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47973hpr_0071.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/270",
@@ -3040,7 +3537,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/270"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47974hpr_0072.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/269",
@@ -3080,7 +3584,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/269"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47975hpr_0073.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/268",
@@ -3120,7 +3631,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/268"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47976hpr_0074.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/267",
@@ -3160,7 +3678,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/267"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47977hpr_0075.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/266",
@@ -3200,7 +3725,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/266"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47978hpr_0076.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/265",
@@ -3240,7 +3772,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/265"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47979hpr_0077.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/264",
@@ -3280,7 +3819,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/264"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47980hpr_0078.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/263",
@@ -3320,7 +3866,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/263"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47981hpr_0079.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/262",
@@ -3360,7 +3913,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/262"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47983hpr_0080.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/261",
@@ -3400,7 +3960,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/261"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47983hpr_0081.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/260",
@@ -3440,7 +4007,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/260"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47984hpr_0082.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/259",
@@ -3480,7 +4054,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/259"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47985hpr_0083.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/258",
@@ -3520,7 +4101,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/258"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47986hpr_0084.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/257",
@@ -3560,7 +4148,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/257"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47987hpr_0085.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/256",
@@ -3600,7 +4195,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/256"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47988hpr_0086.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/255",
@@ -3640,7 +4242,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/255"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47989hpr_0087.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/254",
@@ -3680,7 +4289,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/254"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47990hpr_0088.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/253",
@@ -3720,7 +4336,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/253"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47991hpr_0089.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/252",
@@ -3760,7 +4383,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/252"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47992hpr_0090.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/251",
@@ -3800,7 +4430,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/251"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47993hpr_0091.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/250",
@@ -3840,7 +4477,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/250"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47994hpr_0092.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/249",
@@ -3880,7 +4524,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/249"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47995hpr_0093.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/248",
@@ -3920,7 +4571,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/248"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47996hpr_0094.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/247",
@@ -3960,7 +4618,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/247"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47997hpr_0095.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/246",
@@ -4000,7 +4665,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/246"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47998hpr_0096.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/245",
@@ -4040,7 +4712,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/245"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47999hpr_0097.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/244",
@@ -4080,7 +4759,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/244"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48000hpr_0098.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/243",
@@ -4120,7 +4806,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/243"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48001hpr_0099.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/242",
@@ -4160,7 +4853,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/242"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48002hpr_0100.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/241",
@@ -4200,7 +4900,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/241"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48003hpr_0101.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/240",
@@ -4240,7 +4947,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/240"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48004hpr_0102.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/239",
@@ -4280,7 +4994,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/239"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48005hpr_0103.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/238",
@@ -4320,7 +5041,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/238"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48006hpr_0104.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/237",
@@ -4360,7 +5088,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/237"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48007hpr_0105.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/236",
@@ -4400,7 +5135,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/236"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48008hpr_0106.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/235",
@@ -4440,7 +5182,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/235"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48009hpr_0107.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/234",
@@ -4480,7 +5229,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/234"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48010hpr_0108.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/233",
@@ -4520,7 +5276,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/233"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48011hpr_0109.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/232",
@@ -4560,7 +5323,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/232"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48012hpr_0110.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/231",
@@ -4600,7 +5370,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/231"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48013hpr_0111.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/230",
@@ -4640,7 +5417,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/230"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48014hpr_0112.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/229",
@@ -4680,7 +5464,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/229"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48015hpr_0113.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/228",
@@ -4720,7 +5511,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/228"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48016hpr_0114.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/227",
@@ -4760,7 +5558,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/227"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48017hpr_0115.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/226",
@@ -4800,7 +5605,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/226"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48018hpr_0116.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/225",
@@ -4840,7 +5652,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/225"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48019hpr_0117.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/224",
@@ -4880,7 +5699,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/224"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48020hpr_0118.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/223",
@@ -4920,7 +5746,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/223"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48021hpr_0119.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/222",
@@ -4960,7 +5793,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/222"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48022hpr_0120.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/221",
@@ -5000,7 +5840,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/221"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48023hpr_0121.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/220",
@@ -5040,7 +5887,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/220"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48024hpr_0122.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/219",
@@ -5080,7 +5934,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/219"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48025hpr_0123.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/218",
@@ -5120,7 +5981,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/218"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48026hpr_0124.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/217",
@@ -5160,7 +6028,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/217"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48027hpr_0125.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/216",
@@ -5200,7 +6075,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/216"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48028hpr_0126.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/215",
@@ -5240,7 +6122,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/215"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48029hpr_0127.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/214",
@@ -5280,7 +6169,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/214"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48030hpr_0128.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/213",
@@ -5320,7 +6216,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/213"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48031hpr_0129.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/212",
@@ -5360,7 +6263,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/212"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48032hpr_0130.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/211",
@@ -5400,7 +6310,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/211"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48033hpr_0131.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/210",
@@ -5440,7 +6357,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/210"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48034hpr_0132.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/209",
@@ -5480,7 +6404,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/209"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48035hpr_0133.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/208",
@@ -5520,7 +6451,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/208"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48036hpr_0134.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/207",
@@ -5560,7 +6498,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/207"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48037hpr_0135.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/206",
@@ -5600,7 +6545,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/206"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48038hpr_0136.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/205",
@@ -5640,7 +6592,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/205"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48039hpr_0137.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/204",
@@ -5680,7 +6639,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/204"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48040hpr_0138.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/203",
@@ -5720,7 +6686,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/203"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48041hpr_0139.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/202",
@@ -5760,7 +6733,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/202"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48042hpr_0140.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/201",
@@ -5800,7 +6780,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/201"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48043hpr_0141.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/200",
@@ -5840,7 +6827,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/200"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48044hpr_0142.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/199",
@@ -5880,7 +6874,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/199"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48045hpr_0143.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/198",
@@ -5920,7 +6921,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/198"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48046hpr_0144.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/197",
@@ -5960,7 +6968,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/197"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48047hpr_0145.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/196",
@@ -6000,7 +7015,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/196"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48048hpr_0146.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/195",
@@ -6040,7 +7062,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/195"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48049hpr_0147.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/194",
@@ -6080,7 +7109,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/194"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48050hpr_0148.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/193",
@@ -6120,7 +7156,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/193"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48051hpr_0149.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/192",
@@ -6160,7 +7203,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/192"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48052hpr_0150.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/191",
@@ -6200,7 +7250,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/191"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48053hpr_0151.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/190",
@@ -6240,7 +7297,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/190"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48054hpr_0152.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/189",
@@ -6280,7 +7344,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/189"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48055hpr_0153.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/188",
@@ -6320,7 +7391,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/188"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48056hpr_0154.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/187",
@@ -6360,7 +7438,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/187"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48057hpr_0155.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/186",
@@ -6400,7 +7485,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/186"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48058hpr_0156.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/185",
@@ -6440,7 +7532,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/185"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48059hpr_0157.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/184",
@@ -6480,7 +7579,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/184"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48060hpr_0158.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/183",
@@ -6520,7 +7626,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/183"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48061hpr_0159.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/182",
@@ -6560,7 +7673,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/182"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48062hpr_0160.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/181",
@@ -6600,7 +7720,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/181"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48063hpr_0161.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/180",
@@ -6640,7 +7767,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/180"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48064hpr_0162.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/179",
@@ -6680,7 +7814,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/179"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48065hpr_0163.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/178",
@@ -6720,7 +7861,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/178"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48066hpr_0164.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/177",
@@ -6760,7 +7908,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/177"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48067hpr_0165.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/176",
@@ -6800,7 +7955,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/176"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48068hpr_0166.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/175",
@@ -6840,7 +8002,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/175"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48069hpr_0167.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/174",
@@ -6880,7 +8049,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/174"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48070hpr_0168.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/173",
@@ -6920,7 +8096,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/173"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48071hpr_0169.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/172",
@@ -6960,7 +8143,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/172"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48072hpr_0170.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/171",
@@ -7000,7 +8190,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/171"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48073hpr_0171.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/170",
@@ -7040,7 +8237,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/170"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48074hpr_0172.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/169",
@@ -7080,7 +8284,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/169"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48075hpr_0173.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/168",
@@ -7120,7 +8331,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/168"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48076hpr_0174.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/167",
@@ -7160,7 +8378,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/167"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48077hpr_0175.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/166",
@@ -7200,7 +8425,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/166"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48078hpr_0176.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/165",
@@ -7240,7 +8472,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/165"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48079hpr_0177.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/164",
@@ -7280,7 +8519,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/164"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48080hpr_0178.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/163",
@@ -7320,7 +8566,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/163"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48081hpr_0179.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/162",
@@ -7360,7 +8613,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/162"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48082hpr_0180.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/161",
@@ -7400,7 +8660,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/161"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48083hpr_0181.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/160",
@@ -7440,7 +8707,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/160"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48084hpr_0182.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/159",
@@ -7480,7 +8754,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/159"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48085hpr_0183.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/158",
@@ -7520,7 +8801,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/158"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48086hpr_0184.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/157",
@@ -7560,7 +8848,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/157"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48087hpr_0185.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/156",
@@ -7600,7 +8895,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/156"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48088hpr_0186.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/155",
@@ -7640,7 +8942,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/155"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48089hpr_0187.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/154",
@@ -7680,7 +8989,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/154"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48090hpr_0188.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/153",
@@ -7720,7 +9036,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/153"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48091hpr_0189.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/152",
@@ -7760,7 +9083,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/152"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48092hpr_01890.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/151",
@@ -7800,7 +9130,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/151"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48093hpr_0191.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/150",
@@ -7840,7 +9177,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/150"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48094hpr_0192.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/149",
@@ -7880,7 +9224,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/149"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48095hpr_0193.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/148",
@@ -7920,7 +9271,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/148"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48096hpr_0194.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/147",
@@ -7960,7 +9318,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/147"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48097hpr_0195.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/146",
@@ -8000,7 +9365,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/146"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48098hpr_0196.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/145",
@@ -8040,7 +9412,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/145"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48099hpr_0197.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/144",
@@ -8080,7 +9459,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/144"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48100hpr_0198.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/143",
@@ -8120,7 +9506,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/143"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48101hpr_0199.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/142",
@@ -8160,7 +9553,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/142"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48102hpr_0200.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/141",
@@ -8200,7 +9600,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/141"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48103hpr_0201.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/140",
@@ -8240,7 +9647,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/140"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48104hpr_0202.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/139",
@@ -8280,7 +9694,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/139"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48105hpr_0203.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/138",
@@ -8320,7 +9741,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/138"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48106hpr_0204.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/137",
@@ -8360,7 +9788,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/137"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48107hpr_0205.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/136",
@@ -8400,7 +9835,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/136"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48108hpr_0206.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/135",
@@ -8440,7 +9882,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/135"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48109hpr_0207.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/134",
@@ -8480,7 +9929,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/134"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48110hpr_0208.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/133",
@@ -8520,7 +9976,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/133"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48111hpr_0209.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/132",
@@ -8560,7 +10023,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/132"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48112hpr_0210.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/131",
@@ -8600,7 +10070,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/131"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48113hpr_0211.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/130",
@@ -8640,7 +10117,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/130"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48114hpr_0212.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/129",
@@ -8680,7 +10164,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/129"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48115hpr_0213.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/128",
@@ -8720,7 +10211,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/128"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48116hpr_0214.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/127",
@@ -8760,7 +10258,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/127"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48117hpr_0215.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/126",
@@ -8800,7 +10305,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/126"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48118hpr_0216.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/125",
@@ -8840,7 +10352,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/125"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48119hpr_0217.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/124",
@@ -8880,7 +10399,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/124"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48120hpr_0218.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/123",
@@ -8920,7 +10446,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/123"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48121hpr_0219.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/122",
@@ -8960,7 +10493,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/122"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48122hpr_0220.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/121",
@@ -9000,7 +10540,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/121"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48123hpr_0221.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/120",
@@ -9040,7 +10587,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/120"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48124hpr_0222.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/119",
@@ -9080,7 +10634,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/119"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48125hpr_0223.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/118",
@@ -9120,7 +10681,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/118"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48126hpr_0224.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/117",
@@ -9160,7 +10728,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/117"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48127hpr_0225.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/116",
@@ -9200,7 +10775,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/116"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48128hpr_0226.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/115",
@@ -9240,7 +10822,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/115"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48129hpr_0227.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/114",
@@ -9280,7 +10869,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/114"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48130hpr_0228.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/113",
@@ -9320,7 +10916,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/113"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48131hpr_0229.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/112",
@@ -9360,7 +10963,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/112"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48132hpr_0230.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/111",
@@ -9400,7 +11010,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/111"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48133hpr_0231.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/110",
@@ -9440,7 +11057,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/110"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48134hpr_0232.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/109",
@@ -9480,7 +11104,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/109"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48135hpr_0233.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/108",
@@ -9520,7 +11151,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/108"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48136hpr_0234.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/107",
@@ -9560,7 +11198,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/107"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48137hpr_0235.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/106",
@@ -9600,7 +11245,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/106"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48138hpr_0236.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/105",
@@ -9640,7 +11292,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/105"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48139hpr_0237.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/104",
@@ -9680,7 +11339,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/104"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48140hpr_0238.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/103",
@@ -9720,7 +11386,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/103"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48141hpr_0239.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/102",
@@ -9760,7 +11433,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/102"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48142hpr_0240.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/101",
@@ -9800,7 +11480,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/101"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48143hpr_0241.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/100",
@@ -9840,7 +11527,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/100"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48144hpr_0242.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/99",
@@ -9880,7 +11574,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/99"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48145hpr_0243.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/98",
@@ -9920,7 +11621,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/98"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48146hpr_0244.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/97",
@@ -9960,7 +11668,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/97"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48147hpr_0245.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/96",
@@ -10000,7 +11715,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/96"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48148hpr_0246.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/95",
@@ -10040,7 +11762,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/95"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48151hpr_0249.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/94",
@@ -10080,7 +11809,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/94"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48150hpr_0248.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/93",
@@ -10120,7 +11856,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/93"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48151hpr_0249.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/92",
@@ -10160,7 +11903,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/92"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48152hpr_0250.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/91",
@@ -10200,7 +11950,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/91"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48153hpr_0251.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/90",
@@ -10240,7 +11997,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/90"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48154hpr_0252.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/89",
@@ -10280,7 +12044,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/89"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48155hpr_0253.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/88",
@@ -10320,7 +12091,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/88"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48156hpr_0254.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/87",
@@ -10360,7 +12138,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/87"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48157hpr_0255.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/86",
@@ -10400,7 +12185,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/86"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48158hpr_0256.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/85",
@@ -10440,7 +12232,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/85"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48159hpr_0257.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/84",
@@ -10480,7 +12279,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/84"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48160hpr_0258.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/83",
@@ -10520,7 +12326,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/83"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48161hpr_0259.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/82",
@@ -10560,7 +12373,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/82"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48162hpr_0260.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/81",
@@ -10600,7 +12420,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/81"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48163hpr_0261.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/80",
@@ -10640,7 +12467,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/80"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48164hpr_0262.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/79",
@@ -10680,7 +12514,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/79"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48165hpr_0263.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/78",
@@ -10720,7 +12561,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/78"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48166hpr_0264.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/77",
@@ -10760,7 +12608,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/77"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48167hpr_0265.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/76",
@@ -10800,7 +12655,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/76"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48168hpr_0266.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/75",
@@ -10840,7 +12702,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/75"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48169hpr_0267.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/74",
@@ -10880,7 +12749,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/74"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48170hpr_0268.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/73",
@@ -10920,7 +12796,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/73"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48171hpr_0269.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/72",
@@ -10960,7 +12843,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/72"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48172hpr_0270.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/71",
@@ -11000,7 +12890,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/71"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48173hpr_0271.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/70",
@@ -11040,7 +12937,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/70"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48174hpr_0272.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/69",
@@ -11080,7 +12984,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/69"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48175hpr_0273.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/68",
@@ -11120,7 +13031,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/68"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48176hpr_0274.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/67",
@@ -11160,7 +13078,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/67"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48177hpr_0275.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/66",
@@ -11200,7 +13125,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/66"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48178hpr_0276.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/65",
@@ -11240,7 +13172,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/65"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48179hpr_0277.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/64",
@@ -11280,7 +13219,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/64"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48180hpr_0278.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/63",
@@ -11320,7 +13266,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/63"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48181hpr_0279.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/62",
@@ -11360,7 +13313,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/62"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48182hpr_0280.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/61",
@@ -11400,7 +13360,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/61"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48183hpr_0281.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/60",
@@ -11440,7 +13407,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/60"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48184hpr_0282.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/59",
@@ -11480,7 +13454,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/59"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48185hpr_0283.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/58",
@@ -11520,7 +13501,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/58"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48186hpr_0284.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/57",
@@ -11560,7 +13548,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/57"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48187hpr_0285.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/56",
@@ -11600,7 +13595,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/56"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48188hpr_0286.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/55",
@@ -11640,7 +13642,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/55"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48189hpr_0287.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/54",
@@ -11680,7 +13689,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/54"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48190hpr_0288.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/53",
@@ -11720,7 +13736,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/53"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48191hpr_0289.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/52",
@@ -11760,7 +13783,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/52"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48192hpr_0290.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/51",
@@ -11800,7 +13830,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/51"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48193hpr_0291.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/50",
@@ -11840,7 +13877,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/50"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48194hpr_0292.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/49",
@@ -11880,7 +13924,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/49"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48195hpr_0293.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/48",
@@ -11920,7 +13971,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/48"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48196hpr_0294.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/47",
@@ -11960,7 +14018,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/47"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48197hpr_0295.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/46",
@@ -12000,7 +14065,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/46"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48198hpr_0296.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/45",
@@ -12040,7 +14112,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/45"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48199hpr_0297.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/44",
@@ -12080,7 +14159,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/44"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48200hpr_0298.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/43",
@@ -12120,7 +14206,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/43"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48201hpr_0299.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/42",
@@ -12160,7 +14253,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/42"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48202hpr_0300.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/41",
@@ -12200,7 +14300,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/41"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48203hpr_0301.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/40",
@@ -12240,7 +14347,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/40"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48204hpr_0302.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/39",
@@ -12280,7 +14394,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/39"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48205hpr_0303.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/38",
@@ -12320,7 +14441,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/38"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48206hpr_0304.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/37",
@@ -12360,7 +14488,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/37"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48207hpr_0305.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/36",
@@ -12400,7 +14535,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/36"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48208hpr_0306.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/35",
@@ -12440,7 +14582,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/35"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48209hpr_0307.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/34",
@@ -12480,7 +14629,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/34"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48210hpr_0308.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/33",
@@ -12520,7 +14676,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/33"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48211hpr_0309.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/32",
@@ -12560,7 +14723,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/32"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48212hpr_0310.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/31",
@@ -12600,7 +14770,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/31"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48213hpr_0311.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/30",
@@ -12640,7 +14817,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/30"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48214hpr_0312.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/29",
@@ -12680,7 +14864,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/29"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48215hpr_0313.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/28",
@@ -12720,7 +14911,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/28"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48216hpr_0314.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/27",
@@ -12760,7 +14958,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/27"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48217hpr_0315.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/26",
@@ -12800,7 +15005,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/26"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48218hpr_0316.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/25",
@@ -12840,7 +15052,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/25"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48219hpr_0317.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/24",
@@ -12880,7 +15099,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/24"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48220hpr_0318.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/23",
@@ -12920,7 +15146,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/23"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48221hpr_0319.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/22",
@@ -12960,7 +15193,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/22"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48222hpr_0320.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/21",
@@ -13000,7 +15240,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/21"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48223hpr_0321.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/20",
@@ -13040,7 +15287,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/20"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48224hpr_0322.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/19",
@@ -13080,7 +15334,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/19"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48225hpr_0323.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/18",
@@ -13120,7 +15381,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/18"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48226hpr_0324.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/17",
@@ -13160,7 +15428,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/17"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48227hpr_0325.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/16",
@@ -13200,7 +15475,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/16"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48228hpr_0326.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/15",
@@ -13240,7 +15522,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/15"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48229hpr_0327.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/14",
@@ -13280,7 +15569,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/14"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48230hpr_0328.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/13",
@@ -13320,7 +15616,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/13"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48231hpr_0329.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/12",
@@ -13360,7 +15663,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/12"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48232hpr_0330.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/11",
@@ -13400,7 +15710,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/11"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48233hpr_0331.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/10",
@@ -13440,7 +15757,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/10"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48234hpr_0332.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/9",
@@ -13480,7 +15804,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/9"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48235hpr_0333.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/8",
@@ -13520,7 +15851,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/8"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48236hpr_0334.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/7",
@@ -13560,7 +15898,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/7"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48237hpr_0335.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/6",
@@ -13600,7 +15945,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/6"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48238hpr_0336.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/5",
@@ -13640,7 +15992,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/5"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48239hpr_0337.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/4",
@@ -13680,7 +16039,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/4"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48240hpr_0338.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/3",
@@ -13720,7 +16086,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/3"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48241hpr_0339.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/2",
@@ -13760,7 +16133,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/2"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48242hpr_0340.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/1",
@@ -13800,7 +16180,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/1"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48243hpr_0341.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				},
 				{
 					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/0",
@@ -13840,7 +16227,14 @@
 							},
 							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/0"
 						}
-					]
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS48244hpr_0342.xml", 
+    					"format": "text/xml", 
+    					"profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
 				}
 			]
 		}
